@@ -7,7 +7,7 @@ public class passwordChecker {
         System.out.println("Enter Your Password");
         String inputPass = sc.nextLine();
         if(password.equals(inputPass)){
-            System.out.println("Granted Access");
+            System.out.println("Granted Access!");
         }else{
             System.out.println("Password not matched!");
         }

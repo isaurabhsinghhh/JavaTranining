@@ -18,4 +18,5 @@ public class highestNo {
             System.out.print("Largest no. is: "+c);
         }
     }
+
 }

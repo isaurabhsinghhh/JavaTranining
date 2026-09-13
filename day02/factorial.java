@@ -1,4 +1,4 @@
-package Day2;
+package day02;
 import java.util.*;
 
 public class factorial {
